@@ -11,6 +11,7 @@ I am currently working as a ⚙ DevOps ⚙ engineer, but I also enjoy programmin
 [<img align="left" alt="c0d5x | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/c0d5x)
 [<img align="left" alt="Jose Hidalgo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/josehidalgo/)
 
+<br />
 
 ### Languages and Tools:
 
